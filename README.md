@@ -8,3 +8,5 @@ equipment to analyze asteroids.
 Build on Windows 7 x64.
 
 "Science... hell yeah."
+
+The web simulation is live at http://www.niclinscott.com/AsteroidSimulator
